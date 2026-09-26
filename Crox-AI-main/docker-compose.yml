@@ -1,0 +1,12 @@
+# Runs only the FastAPI backend in a container -- Electron is a desktop app
+# and is run natively (see README), not containerized. Supabase is the
+# hosted/managed database; this does not run Postgres locally.
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    env_file:
+      - ./backend/.env
+    volumes:
+      - ./backend:/app

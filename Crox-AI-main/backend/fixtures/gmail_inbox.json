@@ -1,0 +1,22 @@
+{
+  "messages": [
+    {
+      "id": "msg_priya",
+      "from": "priya.patel@example.com",
+      "subject": "Internship Application - Priya Patel",
+      "snippet": "Please find attached my resume for the summer internship position.",
+      "body": "Hi, I'm applying for the summer internship. My resume is attached.",
+      "attachment": "priya_patel.txt",
+      "received_at": "2026-09-26T08:12:00Z"
+    },
+    {
+      "id": "msg_rahul",
+      "from": "rahul.sharma@example.com",
+      "subject": "Internship Application - Rahul Sharma",
+      "snippet": "Attaching my resume for the internship role, thank you for considering.",
+      "body": "Hello, please find my resume attached for the internship role.",
+      "attachment": "rahul_sharma.txt",
+      "received_at": "2026-09-26T08:40:00Z"
+    }
+  ]
+}

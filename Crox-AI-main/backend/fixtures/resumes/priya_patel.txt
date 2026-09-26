@@ -1,0 +1,10 @@
+PRIYA PATEL
+Email: priya.patel@example.com
+Phone: +91-98765-43210
+College: Vellore Institute of Technology
+
+SKILLS
+Python, React, Node.js, PostgreSQL
+
+EXPERIENCE
+Summer intern, backend services team, built REST APIs in FastAPI.

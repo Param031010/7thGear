@@ -1,0 +1,10 @@
+RAHUL SHARMA
+Email: rahul.sharma@example.com
+Phone: +91-91234-56789
+College: XYZ University
+
+SKILLS
+Python, React, FastAPI
+
+EXPERIENCE
+Built and deployed several full-stack side projects during college.
